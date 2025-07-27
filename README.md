@@ -7,7 +7,7 @@ The app allows users to _browse, **filter, **sort, and \*\*view details_ of prod
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live project](https://your-live-demo-link.com)
+🔗 [Click here to view the live project](https://products-gallery-one.vercel.app/products/4)
 
 ---
 
